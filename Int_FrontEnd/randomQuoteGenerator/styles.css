@@ -1,0 +1,78 @@
+
+/*body wont tkae styles exepts when important!*/
+body {
+	background-color:  #1E9699 !important; 
+	color: #1E9699 !important;
+}
+
+.danger{
+	color:#FF7C7C;
+}
+
+
+/*anchored on the left side for some reason when changing width*/
+#quoteBox,#quoteBoxTwo{
+	margin-top: 100px;
+	padding: 40px 50px;
+	width : 500px;
+	background-color : white;
+	border-radius: 3px;
+	font-family:contrail one;
+}
+
+#quoteText{
+	color: #1E9699 !important;
+	font-size: 1.5em;
+}
+
+#image{
+	width: 23%;
+	border-radius:3px;
+}
+
+.bottomSpacing{
+	margin-top: 5px;
+}
+
+div{
+	position:relative;
+	z-index:2;
+}
+
+/* i tag won't take styles except when important*/
+i{
+
+	font-size:40px !important;
+}
+
+
+	
+.footer {
+  width:450px;
+  text-align:center;
+  display:block;
+  margin:15px auto 30px auto;
+  font-size:1.0em;
+  color:#fff;
+  /*cant get a tags to change color*/
+  a {
+    font-weight:500;
+    text-decoration:none;
+    color:#fff;
+  }
+}
+
+/*making this a class alone is not effective for some reason, id works without important though*/
+#clickableAwesomeFont {
+     cursor: pointer;
+	 float:left;
+	 background-color:#1E9699;
+	 padding:0pc 2px;
+	 border-radius:3px;
+	 color:white;
+	 
+}
+#tweet{
+	float:left;
+	cursor:pointer;
+}

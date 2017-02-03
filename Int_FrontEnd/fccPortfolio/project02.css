@@ -1,0 +1,129 @@
+.navbar{
+  z-index:1000;
+}
+
+#banner{
+  box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.4);
+  position: relative;
+  z-index: 0;
+  padding: 5px;
+  border-radius:0;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,207cca+31,2989d8+50,7db9e8+100 */
+background: rgb(30,87,153); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(30,87,153,1) 0%, rgba(32,124,202,1) 31%, rgba(41,137,216,1) 50%, rgba(125,185,232,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(32,124,202,1) 31%,rgba(41,137,216,1) 50%,rgba(125,185,232,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(30,87,153,1) 0%,rgba(32,124,202,1) 31%,rgba(41,137,216,1) 50%,rgba(125,185,232,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */;
+}
+
+#logo{
+  margin:auto;
+  width: 100%;
+  max-width: 800px;
+  /*display: none;*/
+}
+#bannerImg{
+
+  top: 50%;
+  transform: translateY(-50%); 
+}
+#headerImg{
+  width: 300px;
+  padding:
+}
+#aboutText{
+  font-size: 20px;
+}
+#portfolio{	
+	background-color:#7BB8E8;
+}
+.formattedContact{
+	font-size: 20px;
+	font-family: lato;
+	
+}
+#contactForm{
+}
+#contactMsg{
+
+}
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
+
+.formattedImage{
+	padding-bottom= 15px;
+	width:250px;
+	height:250px;
+}
+.row{
+	padding-top: 30px;
+	padding-bottom:10px;
+}
+.titleText{
+  font-size: 60px;
+  color:#A4D4FC;
+}
+.col-lg-3{
+	padding-bottom: 35px;
+}
+.col-sm-6{
+	left:5%;
+}
+
+.col-xs-12{
+	
+}
+
+h1,
+h3{
+  text-align:center;
+  font-family:Raleway;
+  
+}
+.right{
+    position: absolute;
+   right: 0px;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color:;
+}
+.centerText{
+	text-align:center;
+}
+#footer1{
+	width:100%;
+	margin:0 auto;
+	background-color:;
+	font-size:30px;
+}
+#footer2{
+	background-color:red;
+	font-size:30px;
+}
+.cyanText{
+	color:cyan;
+}
+
+.wrapper {
+	display: inline-block;
+  .make-row();
+}
+.jumbotron{
+
+	margin-right: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1db20c+0,53dbd2+100&0+0,0.5+100 */
+background: -moz-linear-gradient(top, rgba(29,178,12,0) 0%, rgba(83,219,210,0.5) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(29,178,12,0) 0%,rgba(83,219,210,0.5) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(29,178,12,0) 0%,rgba(83,219,210,0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001db20c', endColorstr='#8053dbd2',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+.clearfix{
+	
+}

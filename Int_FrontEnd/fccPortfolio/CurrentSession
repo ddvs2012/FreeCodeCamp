@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="101" xOffset="0" scrollWidth="4120" startPos="4526" endPos="4526" selMode="0" lang="HTML" encoding="-1" filename="F:\Documents\GitHub\FCCprojects\FCC_Portfolio\index.html" backupFilePath="" originalFileLastModifTimestamp="1479592861" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="496" startPos="480" endPos="0" selMode="0" lang="JavaScript" encoding="-1" filename="F:\Documents\GitHub\FCCprojects\FCC_Portfolio\helper.js" backupFilePath="" originalFileLastModifTimestamp="1479497849" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="32" xOffset="0" scrollWidth="1496" startPos="1796" endPos="1796" selMode="0" lang="CSS" encoding="-1" filename="F:\Documents\GitHub\FCCprojects\FCC_Portfolio\project02.css" backupFilePath="" originalFileLastModifTimestamp="1479592865" />
+        </subView>
+    </Session>
+</NotepadPlus>

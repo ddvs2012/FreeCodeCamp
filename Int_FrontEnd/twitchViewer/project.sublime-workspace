@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"site",
+				"site__header	(styles.css)"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"shado",
+				"box-shadow"
+			],
+			[
+				"strea",
+				"streamerName"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"fle",
+				"flex-start"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1510,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 2016,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/scripts.js",
+			"settings":
+			{
+				"buffer_size": 2181,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "jquery",
+		"selected_items":
+		[
+			[
+				"jquery",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Documents/GitHub/FCCprojects/twitchViewer",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/css",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/fonts"
+	],
+	"file_history":
+	[
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/sass/ie.scss",
+		"/F/Documents/GitHub/FCCprojects/firstBPCompass/index.html",
+		"/F/Documents/GitHub/FCCprojects/firstBPCompass/sass/style.scss",
+		"/F/Documents/GitHub/FCCprojects/firstBPCompass/stylesheets/style.css",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/css/styles.css",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/scripts/scripts.js",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/index.html",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/workspace.sublime-workspace",
+		"/F/Documents/GitHub/FCCprojects/firstBPCompass/404.html",
+		"/F/Documents/GitHub/FCCprojects/twitchViewer/style.scss",
+		"/F/Documents/WebDevelopment/websites/websiteWorkspace/Experimentation/index.html",
+		"/F/Documents/GitHub/FCCprojects/wikiViewer/css/styles.css",
+		"/C/Users/Daniel Alexander/AppData/Roaming/Sublime Text 3/Packages/User/FireFox.sublime-build",
+		"/C/Users/Daniel Alexander/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/Daniel Alexander/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/F/Documents/Web Development/websites/www.dannyview.dev/wp-content/themes/wp-portfolio-child/style.css",
+		"/F/Documents/Web Development/websites/www.dannyview.dev/wp-content/themes/wp-portfolio-child/functions.php",
+		"/F/Documents/Web Development/websites/www.dannyview.dev/wp-content/themes/wp-portfolio/style.css",
+		"/F/Documents/Web Development/websites/www.dannyview.dev/wp-content/themes/twentysixteen-child/style.css",
+		"/F/Documents/Web Development/websites/www.dannyview.dev/wp-content/themes/twentysixteen-child",
+		"/F/Documents/GitHub/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logo",
+			"important",
+			"hide",
+			"Nav",
+			"border",
+			"rad",
+			"background",
+			";\n",
+			"4269CE",
+			"red",
+			"  \n",
+			"border-top-left-radius:10px;\n    border-top-left-radius:10px;",
+			"border-top-left-radius:10px;",
+			"th.stream{\n  text-align: center !important;\n  margin: 0 auto;\n  font-size: 1.5em;\n  font-variant: small-caps;\n}",
+			"th.streamer{\n  text-align: center !important;\n  margin: 0 auto;\n  font-size: 1.5em;\n  font-variant: small-caps;\n}",
+			" <tr>\n                    <th class=\"flex-item\">  Streamer  </th> \n                    <th class=\"flex-item\">  Last Seen  </th>\n                </tr>",
+			"<tr>\n                    <th class=\"flex-item\">  Streamer  </th> \n                    <th class=\"flex-item\">  Last Seen  </th>\n                </tr>",
+			"body",
+			"horizontal",
+			"horzontal",
+			"align-item",
+			"align-items",
+			">\n",
+			"                    \n",
+			"<th class=\"flex-item\">boo l </th>",
+			"th class=\"flex-item\">boo l </th>",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2016
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.432035389056,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/FireFox.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
